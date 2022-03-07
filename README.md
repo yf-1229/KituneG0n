@@ -1,7 +1,19 @@
-### Hi there 👋
+# "Hello!GitHub!"
 
-<!--
-**KituneG0n/KituneG0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I love fish
 
-Here are some ideas to get you started:
+Using Pop!_OS
+
+Head of Web Development at [VCborn](https://vcborn.com)
+
+### GitHub Results
+
+[![KituneG0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=KituneG0n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Language used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KituneG0n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
