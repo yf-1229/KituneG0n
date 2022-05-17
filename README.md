@@ -1,13 +1,14 @@
 # "Hello!GitHub!"
 
-### About me
-I love fish
+##About me
 
-Using Pop!_OS
+I am a Japanese developer!
+
+I likes fish and vim!
 
 Head of Web Development at [VCborn](https://vcborn.com)
 
-### GitHub Results
+## GitHub Results
 
 [![KituneG0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=KituneG0n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
