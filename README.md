@@ -10,7 +10,7 @@ Head of Web Development at [VCborn](https://vcborn.com)
 
 ## GitHub Results
 
-[![KituneG0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=KituneG0n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KituneG0n&theme=dracula
 
 ## Language used
 
