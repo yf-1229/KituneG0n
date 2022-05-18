@@ -1,4 +1,5 @@
-![logo_transparent](https://user-images.githubusercontent.com/89195137/169039458-c3f87c9d-6fca-424b-ab3c-05e4db616681.png)
+![g0n-baner](https://user-images.githubusercontent.com/89195137/169040040-a09534fc-bf79-4d83-bdb0-005e1883e6cc.png)
+
 ## About me
 
 I am a Japanese developer!
