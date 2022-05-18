@@ -1,4 +1,4 @@
-<img href=>
+![logo](g0n-baner.png)
 
 ## About me
 
