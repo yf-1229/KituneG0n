@@ -1,4 +1,4 @@
-![g0n-baner](https://user-images.githubusercontent.com/89195137/169040040-a09534fc-bf79-4d83-bdb0-005e1883e6cc.png)
+<img href=>
 
 ## About me
 
