@@ -1,7 +1,5 @@
 ![logo](g0n-baner.png)
-
 ![pr](white.gif)
-
 ## About me
 
 I am a Japanese developer!
