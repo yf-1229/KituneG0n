@@ -10,7 +10,7 @@ Head of Web Development at [VCborn](https://vcborn.com)
 
 ## GitHub Results
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KituneG0n&theme=dracula
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KituneG0n&theme=vue)
 
 ## Language used
 
