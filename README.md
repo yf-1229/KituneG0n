@@ -1,6 +1,6 @@
-<img src="g0n-baner.png">
+<img src="https://github.com/KituneG0n/KituneG0n/blob/main/g0n-baner.png"> 
 
-![pr](white.gif)
+<img src="https://github.com/KituneG0n/KituneG0n/blob/main/white.gif">
 
 ## About me
 
