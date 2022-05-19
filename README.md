@@ -1,7 +1,5 @@
 <img src="https://github.com/KituneG0n/KituneG0n/blob/main/g0n-baner.png"> 
 
-<img src="https://github.com/KituneG0n/KituneG0n/blob/main/white.gif">
-
 ## About me
 
 I am a Japanese developer!
