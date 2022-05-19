@@ -16,4 +16,4 @@ Head of Web Development at [VCborn](https://vcborn.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KituneG0n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![gitpro prompt](https://gitpro-prompt.KituneG0n.com/[KituneG0n])
+![gitpro prompt](https://gitpro-prompt.rihitosan.com/[KituneG0n])
