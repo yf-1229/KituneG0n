@@ -4,7 +4,7 @@
 
 I am a Japanese developer!
 
-I likes fish and vim!
+I love fish and vim!
 
 Head of Web Development at [VCborn](https://vcborn.com)
 
