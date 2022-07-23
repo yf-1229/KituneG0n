@@ -1,6 +1,4 @@
-# Hi :wave: , I'm 
-
-<img src="https://github.com/KituneG0n/KituneG0n/blob/main/g0n-baner.png"> 
+# Hi :wave: , I'm KituneG0n.
 
 ## GitHub Results
 
