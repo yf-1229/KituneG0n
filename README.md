@@ -9,14 +9,15 @@ I'm Japanese Developer. :japan:
     <img height="20" src ="https://img.shields.io/twitter/follow/Kitune_g0n?style=social" />
   </a>
 </p>
- 
- ## I'm a member of:
-     
-     @VCborn
-     @TGR-Group
- 
-           
-           
+                     
 ## GitHub Results
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KituneG0n&theme=vue)
+
+##Hello!World! :
+    
+    echo "Hello!World!"
+    print("Hello!World!")
+    puts("Hello!World!")
+    println("Hello!World!")
+    
