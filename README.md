@@ -1,13 +1,13 @@
-<h1 align="center"> Hi :wave: , I'm KituneG0n. </h1>
+<h1 align="center"> Hi :wave: , Welcome to My profile. </h1>
 
 ## Overview
 
 I'm Japanese Developer. :japan:
 
-## Requirement
+## Auther
 
--Pop!_OS(Ubuntu base)
--Intel
+https://img.shields.io/twitter/follow/Kitune_g0n?style=social
+
 
 
 ## GitHub Results
