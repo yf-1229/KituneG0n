@@ -1,9 +1,14 @@
 <h1 align="center"> Hi :wave: , I'm KituneG0n. </h1>
 
-##Overview
+## Overview
 
 I'm Japanese Developer. :japan:
-I belong to devlopment group.
+
+## Requirement
+
+-Pop!_OS(Ubuntu base)
+-Intel
+
 
 ## GitHub Results
 
