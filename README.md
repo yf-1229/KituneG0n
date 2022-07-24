@@ -1,8 +1,13 @@
 <h1 align="center"> Hi :wave: , Welcome to My profile. </h1>
 
-## Overview
+## Profile
 
 I'm Japanese Developer. :japan:
+
+My interest in PCs began at the age of seven, when I was exposed to various languages such as Python, which led me to Linux. 
+
+Now I do bot development and group application development.
+
 
 <p aligen="center"> 
   <a href="https://twitter.com/Kitune_g0n">
@@ -13,11 +18,3 @@ I'm Japanese Developer. :japan:
 ## GitHub Results
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KituneG0n&theme=vue)
-
-## Hello!World! :
-    
-    echo "Hello!World!"
-    print("Hello!World!")
-    puts("Hello!World!")
-    println("Hello!World!")
-    
