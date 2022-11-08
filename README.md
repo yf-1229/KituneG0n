@@ -6,8 +6,5 @@
 
 I'm Japanese Developer. :japan:
 
-My interest in PCs began at the age of seven, when I was exposed to various languages such as Python, which led me to Linux. 
-
-Now I do bot development and group application development.
 
 
