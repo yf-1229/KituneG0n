@@ -1,5 +1,7 @@
 <h1 align="center"> Hi :wave: , Welcome to My profile. </h1>
 
+![きつねのごん](https://user-images.githubusercontent.com/89195137/200511539-33e2b825-759d-4565-8b81-095003f06254.png)
+
 ## Profile
 
 I'm Japanese Developer. :japan:
@@ -9,12 +11,3 @@ My interest in PCs began at the age of seven, when I was exposed to various lang
 Now I do bot development and group application development.
 
 
-<p aligen="center"> 
-  <a href="https://twitter.com/Kitune_g0n">
-    <img height="20" src ="https://img.shields.io/twitter/follow/Kitune_g0n?style=social" />
-  </a>
-</p>
-                     
-## GitHub Results
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KituneG0n&theme=vue)
